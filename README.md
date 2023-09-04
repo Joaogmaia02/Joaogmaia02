@@ -6,7 +6,7 @@
 
 ![Maia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaogmaia02&show_icons=true&theme=tokyonight)
 
-![Maia's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogmaia02&layout=compact)
+![Maia's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaogmaia02&layout=compact&theme=tokyonight)
 
 ## Conhecimentos
 
