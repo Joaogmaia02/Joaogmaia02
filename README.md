@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Gabriel Maia 👋
+## Olá! Eu sou o João Gabriel Maia 👋
 
 Tenho 18 anos, sou técnico em Informática para Internet pela ETEC Eudécio Luiz Vicenrte e
 estudante de Ciências da Computação pelo Centro Universitário de Adamantina. Estou me aprofundando
