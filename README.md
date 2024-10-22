@@ -2,7 +2,7 @@
 
 Tenho 19 anos, sou técnico em Informática para Internet formado pela ETEC Eudécio Luiz Vicenrte e
 estudante de Ciências da Computação pelo Centro Universitário de Adamantina. Tenho conhecimentos 
-aprofundados emlinguagens de Front-end: HTML, CSS, JavaScript e Bootstrap. Atualmente, estou me 
+aprofundados em linguagens de Front-end: HTML, CSS, JavaScript e Bootstrap. Atualmente, estou me 
 especializando nos conhecimentos envolvendo as linguagens e tecnologias de Back-end: C++, C#, 
 SQL Server, MySQL, PHP e Python.
 
